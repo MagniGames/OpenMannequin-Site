@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## OpenMannequin
 
-You can use the [editor on GitHub](https://github.com/MagniGames/OpenMannequin-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*NOTE: OpenMannequin is currently in planning phase.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OpenMannequin is a full open source (Creative Commons license) game asset created by veterans from the Game Development Industry, powered by the Blender community.
+We will provide a fully modeled, rigged, animated and textured asset that will be drop in compatible with most game engines.
 
-### Markdown
+Authoring will be done in Blender and Godot and initial releases will be in GLTF and Blend format.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Authors
 
-```markdown
-Syntax highlighted code block
+* **Joey Ferwerda** - *Planning, Research, UV* - [Thorworks](http://www.thorworks.org) - [Twitter](https://www.twitter.com/JoeyFerwerda)
+  * Founder Thorworks Game Development Studio, Lead at OpenHMD, Blender Developer, can't stop writing progressive metal.
 
-# Header 1
-## Header 2
-### Header 3
+* **Pablo López Soriano** - *Research, Animation* - [Kednar](https://kednar.com/) - [Twitter](https://twitter.com/kednar)
+  * Animator at Media Molecule, 2x Suzanne Award winner, really likes chickens and dinosaurs.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MagniGames/OpenMannequin-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Twitter: https://twitter.com/openmannequin
